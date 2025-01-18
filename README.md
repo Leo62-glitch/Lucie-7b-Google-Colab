@@ -1,1 +1,1 @@
-# Lucie-7b-Goocle-Colab
+# Lucie-7b-Google-Colab
